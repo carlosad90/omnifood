@@ -52,7 +52,7 @@ const NavBar = () => {
           <Avatar />
 
           <span>Welcome,</span>
-          <span>{user.user.user_metadata.fullName}</span>
+          <span>{user.user.email}</span>
         </div>
       ) : (
         ""
