@@ -1,8 +1,21 @@
-# React + Vite
+# Omnifood
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Omnifood is a fictional company project developed using **React**,**react-router-dom** and **Context API** to handle routing and state management also **Tailwind CSS** for the front-end and **Supabase** for the back-end. The project is deployed on **Vercel**.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Authentication**: Log in using a Google account or with a provided test user.
+- **Responsive Design**: Styled with Tailwind for seamless performance across all device sizes.
+
+### Test User Credentials
+For testing, you can log in with the following credentials:
+- **Username**: cenol23811@cironex.com
+- **Password**: cenol2381
+
+### Live Demo
+Explore the live version here: [Omnifood on Vercel](https://omnifood-seven-livid.vercel.app/)
+
+
+
+
+
