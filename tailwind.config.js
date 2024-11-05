@@ -4,9 +4,9 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-pattern": "url('./src/assets/images/hero/hero.png')",
-        "form-img": "url('./src/assets/images/customers/eating.jpg')",
-        "login-img": "url('./src/assets/images/meals/login-Image.jpg')",
+        "hero-pattern": "url('./assets/images/hero/hero.png')",
+        "form-img": "url('./assets/images/customers/eating.jpg')",
+        "login-img": "url('./assets/images/meals/login-Image.jpg')",
       },
       colors: {
         primary: "#e67e22",
