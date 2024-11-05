@@ -91,7 +91,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className="bg-hero-pattern bg-contain lg:bg-cover bg-no-repeat bg-center py-48 sm:py-60 "></div>
+          <div className="bg-[url('/assets/images/hero/hero.png')] bg-contain lg:bg-cover bg-no-repeat bg-center py-48 sm:py-60 "></div>
         </div>
       </section>
       <section className="py-14">
